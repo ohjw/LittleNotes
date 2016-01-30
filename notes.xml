@@ -1,0 +1,96 @@
+<?xml version="1.0"?>	
+<collection>
+<nextID>4</nextID>
+<nextSenderID>4</nextSenderID>
+<nextRecipientID>5</nextRecipientID>
+<notes>
+<note id="1"> 
+	<subject>Invite to game</subject>
+	
+	<sender id = "sender_1">
+		<title>Miss</title>
+		<firstName>Olivia</firstName>
+		<surname>Wilson</surname>
+	</sender>
+	
+	<recipients>
+		<recipient id="recipient_1">
+			<title>Miss</title>
+			<firstName>Za</firstName>
+			<surname>McKeown</surname>
+		</recipient>
+		<recipient id ="recipient_2">
+			<title>Mr</title>
+			<firstName>Chris</firstName>
+			<surname>Wilson</surname>
+		</recipient>
+	</recipients>
+	
+	<date>6th October 2015</date>
+	
+	<message>Guild wars tonight? Lets do a quest. Meet me at the swamp in Caledon Forest.</message>
+	
+	<link>
+		<site>http://wiki.guildwars2.com/wiki/Caledon_Forest</site>
+	</link>
+	<status>New</status>
+
+</note>
+
+<note id="2"> 
+	<subject>Game Invite</subject>
+	
+	<sender id = "sender_2">
+		<title>Miss</title>
+		<firstName>Olivia</firstName>
+		<surname>Wilson</surname>
+	</sender>
+	
+	<recipients>
+		<recipient id = "recipient_3">
+			<title>Miss</title>
+			<firstName>Jodie</firstName>
+			<surname>Wilson</surname>
+		</recipient>
+	</recipients>
+	
+	<date>6th October 2016</date>
+	
+	<message>Guild wars? I got a new weapon. Meet me in Queensdale.</message>
+	
+	<link>
+		<site>http://www.google.com</site>
+	</link>
+	<status>Current</status>
+
+</note>
+
+<note id="3"> 
+	<subject>This is a historic note</subject>
+	
+	<sender id = "sender_3">
+		<title>Mr</title>
+		<firstName>David</firstName>
+		<surname>Attenborough</surname>
+	</sender>
+	
+	<recipients>
+		<recipient id = "recipient_4">
+			<title>Mr</title>
+			<firstName>Nigel</firstName>
+			<surname>Thornberry</surname>
+		</recipient>
+	</recipients>
+	
+	<date>6th September 1970</date>
+	
+	<message> What a grand discovery! Its a Galapagos giant tortoise. You should come check it out.</message>
+	
+	<link>
+		<site>http://animals.nationalgeographic.com/animals/reptiles/galapagos-tortoise/</site>
+	</link>
+	<status>Historic</status>
+
+</note>
+</notes>
+</collection>
